@@ -1,5 +1,6 @@
 ##JKT_CINEMA
-jkt cinema is cinema script for Jayakarta indonesia roleplay , we decide to release it for public that you can use on your roleplay server.
+
+Jkt_cinema is cinema script for Jayakarta indonesia roleplay , we decide to release it for public that you can use on your roleplay server.
 
 ## Preview
 ![image (5)](https://github.com/user-attachments/assets/3513ebf6-9dc5-4938-acb7-d147213744e6)

@@ -1,4 +1,4 @@
-##JKT_CINEMA
+## JKT_CINEMA
 
 Jkt_cinema is cinema script for Jayakarta indonesia roleplay , we decide to release it for public that you can use on your roleplay server.
 

@@ -5,7 +5,11 @@ jkt cinema is cinema script for Jayakarta indonesia roleplay , we decide to rele
 ![image (5)](https://github.com/user-attachments/assets/3513ebf6-9dc5-4938-acb7-d147213744e6)
 
 ![image](https://github.com/user-attachments/assets/209d6859-dfae-4446-8495-4ad900c84251)
-[Uploading image (5).png…]()
+
+## Image item
+
+![cinema_ticket](https://github.com/user-attachments/assets/c007ea7a-b82e-411f-a7a7-34453c58d3e8)
+
 
 ## Features
 - npc shop system for buying a ticket
